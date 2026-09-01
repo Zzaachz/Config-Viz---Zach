@@ -1,0 +1,1462 @@
+{
+  "124074140119/AWS::AppConfig::DeploymentStrategy": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::AppConfig::DeploymentStrategy_20260717T042651Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__AppConfig__DeploymentStrategy.json.gz"
+  },
+  "124074140119/AWS::Athena::WorkGroup": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Athena::WorkGroup_20260717T042651Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Athena__WorkGroup.json.gz"
+  },
+  "124074140119/AWS::Cassandra::Keyspace": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Cassandra::Keyspace_20260717T042652Z_20260717T042652Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Cassandra__Keyspace.json.gz"
+  },
+  "124074140119/AWS::CloudWatch::Alarm": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::CloudWatch::Alarm_20260717T041238Z_20260717T041238Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__CloudWatch__Alarm.json.gz"
+  },
+  "124074140119/AWS::CodeDeploy::DeploymentConfig": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::CodeDeploy::DeploymentConfig_20260717T042647Z_20260717T042647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__CodeDeploy__DeploymentConfig.json.gz"
+  },
+  "124074140119/AWS::Config::ConfigurationRecorder": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Config::ConfigurationRecorder_20260717T040625Z_20260717T040640Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Config__ConfigurationRecorder.json.gz"
+  },
+  "124074140119/AWS::Config::ResourceCompliance": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/13/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Config::ResourceCompliance_20260813T200009Z_20260813T200010Z_1.json.gz",
+    "last_modified": "2026-08-13T23:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Config__ResourceCompliance.json.gz"
+  },
+  "124074140119/AWS::EC2::DHCPOptions": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::DHCPOptions_20260717T042648Z_20260717T042648Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__DHCPOptions.json.gz"
+  },
+  "124074140119/AWS::EC2::EIP": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/11/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::EIP_20260811T074901Z_20260811T095947Z_1.json.gz",
+    "last_modified": "2026-08-11T11:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__EIP.json.gz"
+  },
+  "124074140119/AWS::EC2::EIPAssociation": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/11/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::EIPAssociation_20260811T074901Z_20260811T074901Z_1.json.gz",
+    "last_modified": "2026-08-11T11:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__EIPAssociation.json.gz"
+  },
+  "124074140119/AWS::EC2::FlowLog": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::FlowLog_20260717T042647Z_20260717T042647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__FlowLog.json.gz"
+  },
+  "124074140119/AWS::EC2::InternetGateway": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::InternetGateway_20260717T040646Z_20260717T040646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__InternetGateway.json.gz"
+  },
+  "124074140119/AWS::EC2::NatGateway": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::NatGateway_20260717T042651Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__NatGateway.json.gz"
+  },
+  "124074140119/AWS::EC2::NetworkAcl": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkAcl_20260717T040647Z_20260717T040647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__NetworkAcl.json.gz"
+  },
+  "124074140119/AWS::EC2::NetworkInterface": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/11/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkInterface_20260811T074901Z_20260811T080154Z_1.json.gz",
+    "last_modified": "2026-08-11T11:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__NetworkInterface.json.gz"
+  },
+  "124074140119/AWS::EC2::RouteTable": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::RouteTable_20260717T040646Z_20260717T041027Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__RouteTable.json.gz"
+  },
+  "124074140119/AWS::EC2::SecurityGroup": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/11/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::SecurityGroup_20260811T074902Z_20260811T080154Z_1.json.gz",
+    "last_modified": "2026-08-11T11:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__SecurityGroup.json.gz"
+  },
+  "124074140119/AWS::EC2::SnapshotBlockPublicAccess": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::SnapshotBlockPublicAccess_20260717T042648Z_20260717T042648Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__SnapshotBlockPublicAccess.json.gz"
+  },
+  "124074140119/AWS::EC2::Subnet": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/11/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::Subnet_20260811T074902Z_20260811T080154Z_1.json.gz",
+    "last_modified": "2026-08-11T11:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__Subnet.json.gz"
+  },
+  "124074140119/AWS::EC2::SubnetNetworkAclAssociation": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetNetworkAclAssociation_20260717T042651Z_20260717T042652Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__SubnetNetworkAclAssociation.json.gz"
+  },
+  "124074140119/AWS::EC2::SubnetRouteTableAssociation": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetRouteTableAssociation_20260717T042650Z_20260717T042650Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__SubnetRouteTableAssociation.json.gz"
+  },
+  "124074140119/AWS::EC2::TransitGatewayAttachment": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGatewayAttachment_20260717T042647Z_20260717T042647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__TransitGatewayAttachment.json.gz"
+  },
+  "124074140119/AWS::EC2::VPC": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/11/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::VPC_20260811T074902Z_20260811T080154Z_1.json.gz",
+    "last_modified": "2026-08-11T11:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__VPC.json.gz"
+  },
+  "124074140119/AWS::EC2::VPCBlockPublicAccessOptions": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::VPCBlockPublicAccessOptions_20260717T042649Z_20260717T042649Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__VPCBlockPublicAccessOptions.json.gz"
+  },
+  "124074140119/AWS::EC2::VPCEndpoint": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::VPCEndpoint_20260717T042651Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__VPCEndpoint.json.gz"
+  },
+  "124074140119/AWS::EC2::VPCGatewayAttachment": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::EC2::VPCGatewayAttachment_20260717T042652Z_20260717T042652Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__EC2__VPCGatewayAttachment.json.gz"
+  },
+  "124074140119/AWS::ECR::Repository": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ECR::Repository_20260717T042648Z_20260717T042648Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ECR__Repository.json.gz"
+  },
+  "124074140119/AWS::ECS::CapacityProvider": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ECS::CapacityProvider_20260717T042647Z_20260717T042647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ECS__CapacityProvider.json.gz"
+  },
+  "124074140119/AWS::ECS::Cluster": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ECS::Cluster_20260717T042646Z_20260717T042646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ECS__Cluster.json.gz"
+  },
+  "124074140119/AWS::ECS::Service": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ECS::Service_20260717T042650Z_20260717T042650Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ECS__Service.json.gz"
+  },
+  "124074140119/AWS::ECS::TaskDefinition": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ECS::TaskDefinition_20260717T042651Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ECS__TaskDefinition.json.gz"
+  },
+  "124074140119/AWS::ElasticLoadBalancingV2::Listener": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::Listener_20260717T042647Z_20260717T042647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ElasticLoadBalancingV2__Listener.json.gz"
+  },
+  "124074140119/AWS::ElasticLoadBalancingV2::LoadBalancer": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::LoadBalancer_20260717T040646Z_20260717T041024Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ElasticLoadBalancingV2__LoadBalancer.json.gz"
+  },
+  "124074140119/AWS::ElasticLoadBalancingV2::TargetGroup": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::TargetGroup_20260717T042652Z_20260717T042652Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ElasticLoadBalancingV2__TargetGroup.json.gz"
+  },
+  "124074140119/AWS::Events::EventBus": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Events::EventBus_20260717T042651Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Events__EventBus.json.gz"
+  },
+  "124074140119/AWS::Events::Rule": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Events::Rule_20260717T042649Z_20260717T042649Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Events__Rule.json.gz"
+  },
+  "124074140119/AWS::GuardDuty::Detector": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::GuardDuty::Detector_20260717T070436Z_20260717T070436Z_1.json.gz",
+    "last_modified": "2026-07-17T11:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__GuardDuty__Detector.json.gz"
+  },
+  "124074140119/AWS::IAM::Policy": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::IAM::Policy_20260717T040646Z_20260717T040646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__IAM__Policy.json.gz"
+  },
+  "124074140119/AWS::IAM::Role": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::IAM::Role_20260717T175811Z_20260717T175811Z_1.json.gz",
+    "last_modified": "2026-07-17T23:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__IAM__Role.json.gz"
+  },
+  "124074140119/AWS::InspectorV2::Activation": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::InspectorV2::Activation_20260717T042659Z_20260717T042659Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__InspectorV2__Activation.json.gz"
+  },
+  "124074140119/AWS::IoT::DomainConfiguration": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::IoT::DomainConfiguration_20260717T042648Z_20260717T042648Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__IoT__DomainConfiguration.json.gz"
+  },
+  "124074140119/AWS::KMS::Alias": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::KMS::Alias_20260717T042648Z_20260717T042649Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__KMS__Alias.json.gz"
+  },
+  "124074140119/AWS::KMS::Key": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::KMS::Key_20260717T042144Z_20260717T042646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__KMS__Key.json.gz"
+  },
+  "124074140119/AWS::RDS::DBInstance": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/13/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::RDS::DBInstance_20260813T200001Z_20260813T200001Z_1.json.gz",
+    "last_modified": "2026-08-13T23:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__RDS__DBInstance.json.gz"
+  },
+  "124074140119/AWS::RDS::DBSnapshot": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/8/13/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::RDS::DBSnapshot_20260813T200001Z_20260813T200001Z_1.json.gz",
+    "last_modified": "2026-08-13T23:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__RDS__DBSnapshot.json.gz"
+  },
+  "124074140119/AWS::RDS::DBSubnetGroup": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::RDS::DBSubnetGroup_20260717T040646Z_20260717T040646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__RDS__DBSubnetGroup.json.gz"
+  },
+  "124074140119/AWS::RDS::OptionGroup": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::RDS::OptionGroup_20260717T042650Z_20260717T042650Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__RDS__OptionGroup.json.gz"
+  },
+  "124074140119/AWS::ResourceExplorer2::Index": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::Index_20260717T175726Z_20260717T175726Z_1.json.gz",
+    "last_modified": "2026-07-17T23:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ResourceExplorer2__Index.json.gz"
+  },
+  "124074140119/AWS::ResourceExplorer2::View": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::View_20260717T175726Z_20260717T175726Z_1.json.gz",
+    "last_modified": "2026-07-17T23:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__ResourceExplorer2__View.json.gz"
+  },
+  "124074140119/AWS::Route53Resolver::ResolverRule": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRule_20260717T042650Z_20260717T042650Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Route53Resolver__ResolverRule.json.gz"
+  },
+  "124074140119/AWS::Route53Resolver::ResolverRuleAssociation": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRuleAssociation_20260717T042652Z_20260717T042652Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Route53Resolver__ResolverRuleAssociation.json.gz"
+  },
+  "124074140119/AWS::S3::Bucket": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::S3::Bucket_20260717T040646Z_20260717T040646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__S3__Bucket.json.gz"
+  },
+  "124074140119/AWS::SNS::Topic": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::SNS::Topic_20260717T042646Z_20260717T042646Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__SNS__Topic.json.gz"
+  },
+  "124074140119/AWS::SSM::ResourceDataSync": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::SSM::ResourceDataSync_20260717T042652Z_20260717T042652Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__SSM__ResourceDataSync.json.gz"
+  },
+  "124074140119/AWS::Scheduler::ScheduleGroup": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::Scheduler::ScheduleGroup_20260717T042647Z_20260717T042647Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__Scheduler__ScheduleGroup.json.gz"
+  },
+  "124074140119/AWS::SecretsManager::Secret": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::SecretsManager::Secret_20260717T042817Z_20260717T042817Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__SecretsManager__Secret.json.gz"
+  },
+  "124074140119/AWS::SecurityHub::Hub": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::SecurityHub::Hub_20260717T042650Z_20260717T042650Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__SecurityHub__Hub.json.gz"
+  },
+  "124074140119/AWS::SecurityHub::Standard": {
+    "key": "AWSLogs/124074140119/Config/us-east-2/2026/7/17/ConfigHistory/124074140119_Config_us-east-2_ConfigHistory_AWS::SecurityHub::Standard_20260717T042650Z_20260717T042651Z_1.json.gz",
+    "last_modified": "2026-07-17T05:30:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\124074140119\\AWS__SecurityHub__Standard.json.gz"
+  },
+  "162521700530/AWS::AppConfig::DeploymentStrategy": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::AppConfig::DeploymentStrategy_20260525T061716Z_20260525T061717Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__AppConfig__DeploymentStrategy.json.gz"
+  },
+  "162521700530/AWS::Athena::WorkGroup": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Athena::WorkGroup_20260525T061717Z_20260525T061717Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Athena__WorkGroup.json.gz"
+  },
+  "162521700530/AWS::Cassandra::Keyspace": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Cassandra::Keyspace_20260525T061717Z_20260525T061718Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Cassandra__Keyspace.json.gz"
+  },
+  "162521700530/AWS::CloudWatch::Alarm": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::CloudWatch::Alarm_20260525T062334Z_20260525T063213Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__CloudWatch__Alarm.json.gz"
+  },
+  "162521700530/AWS::CodeDeploy::DeploymentConfig": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::CodeDeploy::DeploymentConfig_20260525T061713Z_20260525T061713Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__CodeDeploy__DeploymentConfig.json.gz"
+  },
+  "162521700530/AWS::Config::ConfigurationRecorder": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Config::ConfigurationRecorder_20260525T055655Z_20260525T055705Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Config__ConfigurationRecorder.json.gz"
+  },
+  "162521700530/AWS::EC2::DHCPOptions": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::DHCPOptions_20260525T061714Z_20260525T061714Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__DHCPOptions.json.gz"
+  },
+  "162521700530/AWS::EC2::EIP": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/3/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::EIP_20260603T005013Z_20260603T005013Z_1.json.gz",
+    "last_modified": "2026-06-03T04:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__EIP.json.gz"
+  },
+  "162521700530/AWS::EC2::EIPAssociation": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/4/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::EIPAssociation_20260604T185329Z_20260604T185329Z_1.json.gz",
+    "last_modified": "2026-06-04T22:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__EIPAssociation.json.gz"
+  },
+  "162521700530/AWS::EC2::FlowLog": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::FlowLog_20260525T061713Z_20260525T061713Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__FlowLog.json.gz"
+  },
+  "162521700530/AWS::EC2::InternetGateway": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::InternetGateway_20260525T055712Z_20260525T055712Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__InternetGateway.json.gz"
+  },
+  "162521700530/AWS::EC2::NatGateway": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::NatGateway_20260525T061717Z_20260525T061717Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__NatGateway.json.gz"
+  },
+  "162521700530/AWS::EC2::NetworkAcl": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkAcl_20260525T055713Z_20260525T055713Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:08+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__NetworkAcl.json.gz"
+  },
+  "162521700530/AWS::EC2::NetworkInterface": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/2/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkInterface_20260602T184511Z_20260602T185731Z_1.json.gz",
+    "last_modified": "2026-06-02T22:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__NetworkInterface.json.gz"
+  },
+  "162521700530/AWS::EC2::RouteTable": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::RouteTable_20260525T055711Z_20260525T060421Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__RouteTable.json.gz"
+  },
+  "162521700530/AWS::EC2::SecurityGroup": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/3/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::SecurityGroup_20260603T005012Z_20260603T005012Z_1.json.gz",
+    "last_modified": "2026-06-03T04:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__SecurityGroup.json.gz"
+  },
+  "162521700530/AWS::EC2::SnapshotBlockPublicAccess": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::SnapshotBlockPublicAccess_20260525T061714Z_20260525T061714Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__SnapshotBlockPublicAccess.json.gz"
+  },
+  "162521700530/AWS::EC2::Subnet": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/3/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::Subnet_20260603T005012Z_20260603T005012Z_1.json.gz",
+    "last_modified": "2026-06-03T04:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__Subnet.json.gz"
+  },
+  "162521700530/AWS::EC2::SubnetNetworkAclAssociation": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetNetworkAclAssociation_20260525T061716Z_20260525T061718Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__SubnetNetworkAclAssociation.json.gz"
+  },
+  "162521700530/AWS::EC2::SubnetRouteTableAssociation": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetRouteTableAssociation_20260525T061716Z_20260525T061716Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__SubnetRouteTableAssociation.json.gz"
+  },
+  "162521700530/AWS::EC2::TransitGatewayAttachment": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGatewayAttachment_20260525T061713Z_20260525T061713Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__TransitGatewayAttachment.json.gz"
+  },
+  "162521700530/AWS::EC2::VPC": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/3/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::VPC_20260603T005012Z_20260603T005012Z_1.json.gz",
+    "last_modified": "2026-06-03T04:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__VPC.json.gz"
+  },
+  "162521700530/AWS::EC2::VPCBlockPublicAccessOptions": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::VPCBlockPublicAccessOptions_20260525T061715Z_20260525T061715Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__VPCBlockPublicAccessOptions.json.gz"
+  },
+  "162521700530/AWS::EC2::VPCEndpoint": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::VPCEndpoint_20260525T061717Z_20260525T061717Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:08+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__VPCEndpoint.json.gz"
+  },
+  "162521700530/AWS::EC2::VPCGatewayAttachment": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::EC2::VPCGatewayAttachment_20260525T061718Z_20260525T061718Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:08+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__EC2__VPCGatewayAttachment.json.gz"
+  },
+  "162521700530/AWS::ECR::Repository": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ECR::Repository_20260525T062122Z_20260525T062122Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ECR__Repository.json.gz"
+  },
+  "162521700530/AWS::ECS::CapacityProvider": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ECS::CapacityProvider_20260525T061713Z_20260525T061713Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ECS__CapacityProvider.json.gz"
+  },
+  "162521700530/AWS::ECS::Cluster": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ECS::Cluster_20260525T062121Z_20260525T062121Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ECS__Cluster.json.gz"
+  },
+  "162521700530/AWS::ECS::Service": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ECS::Service_20260525T062331Z_20260525T062331Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ECS__Service.json.gz"
+  },
+  "162521700530/AWS::ECS::TaskDefinition": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ECS::TaskDefinition_20260525T062121Z_20260525T062121Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ECS__TaskDefinition.json.gz"
+  },
+  "162521700530/AWS::ElasticLoadBalancingV2::Listener": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::Listener_20260525T062331Z_20260525T062331Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ElasticLoadBalancingV2__Listener.json.gz"
+  },
+  "162521700530/AWS::ElasticLoadBalancingV2::LoadBalancer": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::LoadBalancer_20260525T062121Z_20260525T062332Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ElasticLoadBalancingV2__LoadBalancer.json.gz"
+  },
+  "162521700530/AWS::ElasticLoadBalancingV2::TargetGroup": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::TargetGroup_20260525T062122Z_20260525T075013Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ElasticLoadBalancingV2__TargetGroup.json.gz"
+  },
+  "162521700530/AWS::Events::EventBus": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Events::EventBus_20260525T061716Z_20260525T061716Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Events__EventBus.json.gz"
+  },
+  "162521700530/AWS::Events::Rule": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Events::Rule_20260525T061715Z_20260525T061715Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Events__Rule.json.gz"
+  },
+  "162521700530/AWS::GuardDuty::Detector": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::GuardDuty::Detector_20260525T235012Z_20260525T235012Z_1.json.gz",
+    "last_modified": "2026-05-26T04:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__GuardDuty__Detector.json.gz"
+  },
+  "162521700530/AWS::IAM::Policy": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::IAM::Policy_20260525T062010Z_20260525T062010Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__IAM__Policy.json.gz"
+  },
+  "162521700530/AWS::IAM::Role": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::IAM::Role_20260525T055711Z_20260525T063535Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__IAM__Role.json.gz"
+  },
+  "162521700530/AWS::InspectorV2::Activation": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::InspectorV2::Activation_20260525T061723Z_20260525T061723Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__InspectorV2__Activation.json.gz"
+  },
+  "162521700530/AWS::IoT::DomainConfiguration": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::IoT::DomainConfiguration_20260525T061714Z_20260525T061714Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__IoT__DomainConfiguration.json.gz"
+  },
+  "162521700530/AWS::KMS::Alias": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::KMS::Alias_20260525T195012Z_20260525T195012Z_1.json.gz",
+    "last_modified": "2026-05-25T22:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__KMS__Alias.json.gz"
+  },
+  "162521700530/AWS::KMS::Key": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::KMS::Key_20260525T062121Z_20260525T075011Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:06+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__KMS__Key.json.gz"
+  },
+  "162521700530/AWS::RDS::DBInstance": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/4/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::RDS::DBInstance_20260604T185012Z_20260604T185012Z_1.json.gz",
+    "last_modified": "2026-06-04T22:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__RDS__DBInstance.json.gz"
+  },
+  "162521700530/AWS::RDS::DBSnapshot": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/6/4/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::RDS::DBSnapshot_20260604T185012Z_20260604T185012Z_1.json.gz",
+    "last_modified": "2026-06-04T22:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__RDS__DBSnapshot.json.gz"
+  },
+  "162521700530/AWS::RDS::DBSubnetGroup": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::RDS::DBSubnetGroup_20260525T062123Z_20260525T062123Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__RDS__DBSubnetGroup.json.gz"
+  },
+  "162521700530/AWS::RDS::OptionGroup": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::RDS::OptionGroup_20260525T195013Z_20260525T195013Z_1.json.gz",
+    "last_modified": "2026-05-25T22:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__RDS__OptionGroup.json.gz"
+  },
+  "162521700530/AWS::ResourceExplorer2::Index": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::Index_20260525T063634Z_20260525T063634Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ResourceExplorer2__Index.json.gz"
+  },
+  "162521700530/AWS::ResourceExplorer2::View": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::View_20260525T063634Z_20260525T063634Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:04+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__ResourceExplorer2__View.json.gz"
+  },
+  "162521700530/AWS::Route53Resolver::ResolverRule": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRule_20260525T061716Z_20260525T061716Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Route53Resolver__ResolverRule.json.gz"
+  },
+  "162521700530/AWS::Route53Resolver::ResolverRuleAssociation": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRuleAssociation_20260525T061717Z_20260525T061717Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:08+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Route53Resolver__ResolverRuleAssociation.json.gz"
+  },
+  "162521700530/AWS::S3::AccountPublicAccessBlock": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::S3::AccountPublicAccessBlock_20260525T061715Z_20260525T061715Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__S3__AccountPublicAccessBlock.json.gz"
+  },
+  "162521700530/AWS::S3::Bucket": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::S3::Bucket_20260525T062125Z_20260525T062125Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__S3__Bucket.json.gz"
+  },
+  "162521700530/AWS::SNS::Topic": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::SNS::Topic_20260525T061712Z_20260525T061712Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__SNS__Topic.json.gz"
+  },
+  "162521700530/AWS::SSM::ResourceDataSync": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::SSM::ResourceDataSync_20260525T061718Z_20260525T061718Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__SSM__ResourceDataSync.json.gz"
+  },
+  "162521700530/AWS::Scheduler::ScheduleGroup": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::Scheduler::ScheduleGroup_20260525T061713Z_20260525T061713Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:03+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__Scheduler__ScheduleGroup.json.gz"
+  },
+  "162521700530/AWS::SecretsManager::Secret": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::SecretsManager::Secret_20260525T061944Z_20260525T061944Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:05+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__SecretsManager__Secret.json.gz"
+  },
+  "162521700530/AWS::SecurityHub::Hub": {
+    "key": "AWSLogs/162521700530/Config/us-east-2/2026/5/25/ConfigHistory/162521700530_Config_us-east-2_ConfigHistory_AWS::SecurityHub::Hub_20260525T061716Z_20260525T061716Z_1.json.gz",
+    "last_modified": "2026-05-25T10:34:07+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\162521700530\\AWS__SecurityHub__Hub.json.gz"
+  },
+  "387075078863/AWS::ACM::Certificate": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ACM::Certificate_20260805T234343Z_20260805T234343Z_1.json.gz",
+    "last_modified": "2026-08-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ACM__Certificate.json.gz"
+  },
+  "387075078863/AWS::AppConfig::DeploymentStrategy": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::AppConfig::DeploymentStrategy_20260605T214356Z_20260605T214357Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__AppConfig__DeploymentStrategy.json.gz"
+  },
+  "387075078863/AWS::Athena::WorkGroup": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Athena::WorkGroup_20260605T214357Z_20260605T214357Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Athena__WorkGroup.json.gz"
+  },
+  "387075078863/AWS::Cassandra::Keyspace": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Cassandra::Keyspace_20260605T214358Z_20260605T214358Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Cassandra__Keyspace.json.gz"
+  },
+  "387075078863/AWS::CloudWatch::Alarm": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/6/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::CloudWatch::Alarm_20260806T004343Z_20260806T004343Z_1.json.gz",
+    "last_modified": "2026-08-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__CloudWatch__Alarm.json.gz"
+  },
+  "387075078863/AWS::CodeDeploy::DeploymentConfig": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::CodeDeploy::DeploymentConfig_20260605T214353Z_20260605T214353Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__CodeDeploy__DeploymentConfig.json.gz"
+  },
+  "387075078863/AWS::Config::ConfigurationRecorder": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Config::ConfigurationRecorder_20260605T212326Z_20260605T212336Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Config__ConfigurationRecorder.json.gz"
+  },
+  "387075078863/AWS::Config::ResourceCompliance": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/14/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Config::ResourceCompliance_20260814T054351Z_20260814T054354Z_1.json.gz",
+    "last_modified": "2026-08-14T08:34:34+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Config__ResourceCompliance.json.gz"
+  },
+  "387075078863/AWS::EC2::DHCPOptions": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::DHCPOptions_20260605T214354Z_20260605T214354Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__DHCPOptions.json.gz"
+  },
+  "387075078863/AWS::EC2::EIP": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/12/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::EIP_20260812T104344Z_20260812T104344Z_1.json.gz",
+    "last_modified": "2026-08-12T14:34:34+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__EIP.json.gz"
+  },
+  "387075078863/AWS::EC2::EIPAssociation": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/12/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::EIPAssociation_20260812T052123Z_20260812T071041Z_1.json.gz",
+    "last_modified": "2026-08-12T08:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__EIPAssociation.json.gz"
+  },
+  "387075078863/AWS::EC2::FlowLog": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::FlowLog_20260805T031238Z_20260805T031238Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__FlowLog.json.gz"
+  },
+  "387075078863/AWS::EC2::Instance": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/7/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::Instance_20260705T184216Z_20260705T184216Z_1.json.gz",
+    "last_modified": "2026-07-05T20:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__Instance.json.gz"
+  },
+  "387075078863/AWS::EC2::InternetGateway": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::InternetGateway_20260805T031248Z_20260805T031248Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__InternetGateway.json.gz"
+  },
+  "387075078863/AWS::EC2::NatGateway": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::NatGateway_20260805T031239Z_20260805T031449Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__NatGateway.json.gz"
+  },
+  "387075078863/AWS::EC2::NetworkAcl": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkAcl_20260805T031240Z_20260805T031249Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__NetworkAcl.json.gz"
+  },
+  "387075078863/AWS::EC2::NetworkInterface": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/12/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkInterface_20260812T104344Z_20260812T104344Z_1.json.gz",
+    "last_modified": "2026-08-12T14:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__NetworkInterface.json.gz"
+  },
+  "387075078863/AWS::EC2::RouteTable": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::RouteTable_20260805T031248Z_20260805T043201Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__RouteTable.json.gz"
+  },
+  "387075078863/AWS::EC2::SecurityGroup": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/12/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::SecurityGroup_20260812T052129Z_20260812T072208Z_1.json.gz",
+    "last_modified": "2026-08-12T08:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__SecurityGroup.json.gz"
+  },
+  "387075078863/AWS::EC2::SnapshotBlockPublicAccess": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::SnapshotBlockPublicAccess_20260605T214354Z_20260605T214354Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__SnapshotBlockPublicAccess.json.gz"
+  },
+  "387075078863/AWS::EC2::Subnet": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/12/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::Subnet_20260812T052129Z_20260812T072208Z_1.json.gz",
+    "last_modified": "2026-08-12T08:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__Subnet.json.gz"
+  },
+  "387075078863/AWS::EC2::SubnetNetworkAclAssociation": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/6/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetNetworkAclAssociation_20260806T004346Z_20260806T004347Z_1.json.gz",
+    "last_modified": "2026-08-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__SubnetNetworkAclAssociation.json.gz"
+  },
+  "387075078863/AWS::EC2::SubnetRouteTableAssociation": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetRouteTableAssociation_20260805T031238Z_20260805T031239Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__SubnetRouteTableAssociation.json.gz"
+  },
+  "387075078863/AWS::EC2::TransitGatewayAttachment": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGatewayAttachment_20260805T031238Z_20260805T031238Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__TransitGatewayAttachment.json.gz"
+  },
+  "387075078863/AWS::EC2::VPC": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/12/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::VPC_20260812T052129Z_20260812T072207Z_1.json.gz",
+    "last_modified": "2026-08-12T08:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__VPC.json.gz"
+  },
+  "387075078863/AWS::EC2::VPCBlockPublicAccessOptions": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::VPCBlockPublicAccessOptions_20260605T214355Z_20260605T214355Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__VPCBlockPublicAccessOptions.json.gz"
+  },
+  "387075078863/AWS::EC2::VPCEndpoint": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::VPCEndpoint_20260805T031238Z_20260805T054344Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__VPCEndpoint.json.gz"
+  },
+  "387075078863/AWS::EC2::VPCGatewayAttachment": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::VPCGatewayAttachment_20260805T031238Z_20260805T031238Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__VPCGatewayAttachment.json.gz"
+  },
+  "387075078863/AWS::EC2::Volume": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/7/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::EC2::Volume_20260705T224343Z_20260705T224343Z_1.json.gz",
+    "last_modified": "2026-07-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__EC2__Volume.json.gz"
+  },
+  "387075078863/AWS::ECR::Repository": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ECR::Repository_20260805T034130Z_20260805T034130Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ECR__Repository.json.gz"
+  },
+  "387075078863/AWS::ECS::CapacityProvider": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ECS::CapacityProvider_20260605T214353Z_20260605T214353Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ECS__CapacityProvider.json.gz"
+  },
+  "387075078863/AWS::ECS::Cluster": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ECS::Cluster_20260805T034130Z_20260805T034130Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:34+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ECS__Cluster.json.gz"
+  },
+  "387075078863/AWS::ECS::Service": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/6/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ECS::Service_20260806T034403Z_20260806T034403Z_1.json.gz",
+    "last_modified": "2026-08-06T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ECS__Service.json.gz"
+  },
+  "387075078863/AWS::ECS::TaskDefinition": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ECS::TaskDefinition_20260805T034130Z_20260805T080607Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ECS__TaskDefinition.json.gz"
+  },
+  "387075078863/AWS::ElasticLoadBalancingV2::Listener": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::Listener_20260805T044324Z_20260805T044324Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ElasticLoadBalancingV2__Listener.json.gz"
+  },
+  "387075078863/AWS::ElasticLoadBalancingV2::LoadBalancer": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::LoadBalancer_20260805T043200Z_20260805T044332Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ElasticLoadBalancingV2__LoadBalancer.json.gz"
+  },
+  "387075078863/AWS::ElasticLoadBalancingV2::TargetGroup": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::TargetGroup_20260805T114354Z_20260805T114354Z_1.json.gz",
+    "last_modified": "2026-08-05T14:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ElasticLoadBalancingV2__TargetGroup.json.gz"
+  },
+  "387075078863/AWS::Events::EventBus": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Events::EventBus_20260605T214356Z_20260605T214356Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Events__EventBus.json.gz"
+  },
+  "387075078863/AWS::Events::Rule": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Events::Rule_20260605T214355Z_20260605T214355Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Events__Rule.json.gz"
+  },
+  "387075078863/AWS::GuardDuty::Detector": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/7/14/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::GuardDuty::Detector_20260714T134344Z_20260714T134344Z_1.json.gz",
+    "last_modified": "2026-07-14T14:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__GuardDuty__Detector.json.gz"
+  },
+  "387075078863/AWS::IAM::Policy": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::IAM::Policy_20260805T032828Z_20260805T032828Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__IAM__Policy.json.gz"
+  },
+  "387075078863/AWS::IAM::Role": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::IAM::Role_20260805T032828Z_20260805T053312Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__IAM__Role.json.gz"
+  },
+  "387075078863/AWS::InspectorV2::Activation": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::InspectorV2::Activation_20260605T214409Z_20260605T214409Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__InspectorV2__Activation.json.gz"
+  },
+  "387075078863/AWS::IoT::DomainConfiguration": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::IoT::DomainConfiguration_20260605T214354Z_20260605T214354Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__IoT__DomainConfiguration.json.gz"
+  },
+  "387075078863/AWS::KMS::Alias": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/6/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::KMS::Alias_20260806T044344Z_20260806T044344Z_1.json.gz",
+    "last_modified": "2026-08-06T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__KMS__Alias.json.gz"
+  },
+  "387075078863/AWS::KMS::Key": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::KMS::Key_20260805T104343Z_20260805T104343Z_1.json.gz",
+    "last_modified": "2026-08-05T14:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__KMS__Key.json.gz"
+  },
+  "387075078863/AWS::RDS::DBInstance": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/14/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::RDS::DBInstance_20260814T054343Z_20260814T054343Z_1.json.gz",
+    "last_modified": "2026-08-14T08:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__RDS__DBInstance.json.gz"
+  },
+  "387075078863/AWS::RDS::DBSnapshot": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/14/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::RDS::DBSnapshot_20260814T054343Z_20260814T054344Z_1.json.gz",
+    "last_modified": "2026-08-14T08:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__RDS__DBSnapshot.json.gz"
+  },
+  "387075078863/AWS::RDS::DBSubnetGroup": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::RDS::DBSubnetGroup_20260805T032739Z_20260805T032739Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:34+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__RDS__DBSubnetGroup.json.gz"
+  },
+  "387075078863/AWS::RDS::OptionGroup": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::RDS::OptionGroup_20260605T214356Z_20260605T214356Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__RDS__OptionGroup.json.gz"
+  },
+  "387075078863/AWS::ResourceExplorer2::Index": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/9/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::Index_20260609T183924Z_20260609T183924Z_1.json.gz",
+    "last_modified": "2026-06-09T20:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ResourceExplorer2__Index.json.gz"
+  },
+  "387075078863/AWS::ResourceExplorer2::View": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/9/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::View_20260609T183945Z_20260609T183945Z_1.json.gz",
+    "last_modified": "2026-06-09T20:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ResourceExplorer2__View.json.gz"
+  },
+  "387075078863/AWS::Route53Resolver::ResolverRule": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRule_20260605T214356Z_20260605T214356Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Route53Resolver__ResolverRule.json.gz"
+  },
+  "387075078863/AWS::Route53Resolver::ResolverRuleAssociation": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/7/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRuleAssociation_20260807T194345Z_20260807T194345Z_1.json.gz",
+    "last_modified": "2026-08-07T20:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Route53Resolver__ResolverRuleAssociation.json.gz"
+  },
+  "387075078863/AWS::S3::AccountPublicAccessBlock": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::S3::AccountPublicAccessBlock_20260605T214355Z_20260605T214355Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__S3__AccountPublicAccessBlock.json.gz"
+  },
+  "387075078863/AWS::S3::Bucket": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::S3::Bucket_20260805T032739Z_20260805T032739Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__S3__Bucket.json.gz"
+  },
+  "387075078863/AWS::SNS::Topic": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SNS::Topic_20260805T031238Z_20260805T031238Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:34+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SNS__Topic.json.gz"
+  },
+  "387075078863/AWS::SSM::AssociationCompliance": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/13/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SSM::AssociationCompliance_20260813T141708Z_20260813T142045Z_1.json.gz",
+    "last_modified": "2026-08-13T14:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SSM__AssociationCompliance.json.gz"
+  },
+  "387075078863/AWS::SSM::ManagedInstanceInventory": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/13/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SSM::ManagedInstanceInventory_20260813T193029Z_20260813T194738Z_1.json.gz",
+    "last_modified": "2026-08-13T20:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SSM__ManagedInstanceInventory.json.gz"
+  },
+  "387075078863/AWS::SSM::ResourceDataSync": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SSM::ResourceDataSync_20260605T214358Z_20260605T214358Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:37+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SSM__ResourceDataSync.json.gz"
+  },
+  "387075078863/AWS::Scheduler::ScheduleGroup": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::Scheduler::ScheduleGroup_20260605T214353Z_20260605T214353Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__Scheduler__ScheduleGroup.json.gz"
+  },
+  "387075078863/AWS::SecretsManager::Secret": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SecretsManager::Secret_20260805T032625Z_20260805T075910Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SecretsManager__Secret.json.gz"
+  },
+  "387075078863/AWS::SecurityHub::Hub": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SecurityHub::Hub_20260605T214356Z_20260605T214356Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SecurityHub__Hub.json.gz"
+  },
+  "387075078863/AWS::SecurityHub::Standard": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/6/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::SecurityHub::Standard_20260605T214355Z_20260605T214356Z_1.json.gz",
+    "last_modified": "2026-06-06T02:34:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__SecurityHub__Standard.json.gz"
+  },
+  "387075078863/AWS::ServiceDiscovery::HttpNamespace": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ServiceDiscovery::HttpNamespace_20260805T174344Z_20260805T174344Z_1.json.gz",
+    "last_modified": "2026-08-05T20:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ServiceDiscovery__HttpNamespace.json.gz"
+  },
+  "387075078863/AWS::ServiceDiscovery::Instance": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ServiceDiscovery::Instance_20260805T084344Z_20260805T084344Z_1.json.gz",
+    "last_modified": "2026-08-05T14:34:36+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ServiceDiscovery__Instance.json.gz"
+  },
+  "387075078863/AWS::ServiceDiscovery::Service": {
+    "key": "AWSLogs/387075078863/Config/us-east-2/2026/8/5/ConfigHistory/387075078863_Config_us-east-2_ConfigHistory_AWS::ServiceDiscovery::Service_20260805T034130Z_20260805T044324Z_1.json.gz",
+    "last_modified": "2026-08-05T08:34:35+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\387075078863\\AWS__ServiceDiscovery__Service.json.gz"
+  },
+  "886031930818/AWS::AppConfig::DeploymentStrategy": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::AppConfig::DeploymentStrategy_20260525T065905Z_20260525T065905Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__AppConfig__DeploymentStrategy.json.gz"
+  },
+  "886031930818/AWS::Athena::WorkGroup": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Athena::WorkGroup_20260525T065906Z_20260525T065906Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Athena__WorkGroup.json.gz"
+  },
+  "886031930818/AWS::AutoScaling::AutoScalingGroup": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::AutoScaling::AutoScalingGroup_20260709T192256Z_20260709T193627Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__AutoScaling__AutoScalingGroup.json.gz"
+  },
+  "886031930818/AWS::Cassandra::Keyspace": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Cassandra::Keyspace_20260525T065906Z_20260525T065906Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Cassandra__Keyspace.json.gz"
+  },
+  "886031930818/AWS::CodeDeploy::DeploymentConfig": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::CodeDeploy::DeploymentConfig_20260525T065902Z_20260525T065902Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__CodeDeploy__DeploymentConfig.json.gz"
+  },
+  "886031930818/AWS::Config::ConfigurationRecorder": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Config::ConfigurationRecorder_20260525T063846Z_20260525T063851Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:55+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Config__ConfigurationRecorder.json.gz"
+  },
+  "886031930818/AWS::EC2::DHCPOptions": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::DHCPOptions_20260525T065903Z_20260525T065903Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__DHCPOptions.json.gz"
+  },
+  "886031930818/AWS::EC2::EC2Fleet": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/12/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::EC2Fleet_20260712T104640Z_20260712T104640Z_1.json.gz",
+    "last_modified": "2026-07-12T13:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__EC2Fleet.json.gz"
+  },
+  "886031930818/AWS::EC2::EIP": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::EIP_20260709T191349Z_20260709T192929Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__EIP.json.gz"
+  },
+  "886031930818/AWS::EC2::FlowLog": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::FlowLog_20260525T065902Z_20260525T065902Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__FlowLog.json.gz"
+  },
+  "886031930818/AWS::EC2::Instance": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::Instance_20260709T192300Z_20260709T193328Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__Instance.json.gz"
+  },
+  "886031930818/AWS::EC2::InternetGateway": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::InternetGateway_20260709T191347Z_20260709T192934Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__InternetGateway.json.gz"
+  },
+  "886031930818/AWS::EC2::LaunchTemplate": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::LaunchTemplate_20260709T200441Z_20260709T200441Z_1.json.gz",
+    "last_modified": "2026-07-10T01:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__LaunchTemplate.json.gz"
+  },
+  "886031930818/AWS::EC2::NatGateway": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/11/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::NatGateway_20260711T184218Z_20260711T184218Z_1.json.gz",
+    "last_modified": "2026-07-11T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__NatGateway.json.gz"
+  },
+  "886031930818/AWS::EC2::NetworkAcl": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/10/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkAcl_20260710T063802Z_20260710T063802Z_1.json.gz",
+    "last_modified": "2026-07-10T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__NetworkAcl.json.gz"
+  },
+  "886031930818/AWS::EC2::NetworkInterface": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/10/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkInterface_20260710T063802Z_20260710T063802Z_1.json.gz",
+    "last_modified": "2026-07-10T07:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__NetworkInterface.json.gz"
+  },
+  "886031930818/AWS::EC2::RouteTable": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/10/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::RouteTable_20260710T063802Z_20260710T063802Z_1.json.gz",
+    "last_modified": "2026-07-10T07:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__RouteTable.json.gz"
+  },
+  "886031930818/AWS::EC2::SecurityGroup": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/10/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::SecurityGroup_20260710T063802Z_20260710T063802Z_1.json.gz",
+    "last_modified": "2026-07-10T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__SecurityGroup.json.gz"
+  },
+  "886031930818/AWS::EC2::SnapshotBlockPublicAccess": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::SnapshotBlockPublicAccess_20260525T065903Z_20260525T065903Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__SnapshotBlockPublicAccess.json.gz"
+  },
+  "886031930818/AWS::EC2::Subnet": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::Subnet_20260709T200449Z_20260709T200658Z_1.json.gz",
+    "last_modified": "2026-07-10T01:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__Subnet.json.gz"
+  },
+  "886031930818/AWS::EC2::SubnetNetworkAclAssociation": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetNetworkAclAssociation_20260525T065905Z_20260525T065907Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:55+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__SubnetNetworkAclAssociation.json.gz"
+  },
+  "886031930818/AWS::EC2::SubnetRouteTableAssociation": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetRouteTableAssociation_20260709T191346Z_20260709T192716Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:55+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__SubnetRouteTableAssociation.json.gz"
+  },
+  "886031930818/AWS::EC2::TransitGatewayAttachment": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGatewayAttachment_20260525T065902Z_20260525T065902Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__TransitGatewayAttachment.json.gz"
+  },
+  "886031930818/AWS::EC2::VPC": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::VPC_20260709T200441Z_20260709T200649Z_1.json.gz",
+    "last_modified": "2026-07-10T01:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__VPC.json.gz"
+  },
+  "886031930818/AWS::EC2::VPCBlockPublicAccessOptions": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::VPCBlockPublicAccessOptions_20260525T065904Z_20260525T065904Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__VPCBlockPublicAccessOptions.json.gz"
+  },
+  "886031930818/AWS::EC2::VPCEndpoint": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::VPCEndpoint_20260525T065906Z_20260525T065906Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:56+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__VPCEndpoint.json.gz"
+  },
+  "886031930818/AWS::EC2::VPCGatewayAttachment": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::VPCGatewayAttachment_20260709T191346Z_20260709T192927Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:56+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__VPCGatewayAttachment.json.gz"
+  },
+  "886031930818/AWS::EC2::Volume": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/10/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EC2::Volume_20260710T063802Z_20260710T063802Z_1.json.gz",
+    "last_modified": "2026-07-10T07:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EC2__Volume.json.gz"
+  },
+  "886031930818/AWS::ECS::CapacityProvider": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::ECS::CapacityProvider_20260525T065902Z_20260525T065902Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__ECS__CapacityProvider.json.gz"
+  },
+  "886031930818/AWS::EKS::Cluster": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EKS::Cluster_20260709T201036Z_20260709T201036Z_1.json.gz",
+    "last_modified": "2026-07-10T01:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster.json.gz"
+  },
+  "886031930818/AWS::EKS::Nodegroup": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::EKS::Nodegroup_20260709T192620Z_20260709T193737Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__EKS__Nodegroup.json.gz"
+  },
+  "886031930818/AWS::Events::EventBus": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Events::EventBus_20260525T065905Z_20260525T065905Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:56+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Events__EventBus.json.gz"
+  },
+  "886031930818/AWS::Events::Rule": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Events::Rule_20260709T192236Z_20260709T192236Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Events__Rule.json.gz"
+  },
+  "886031930818/AWS::GuardDuty::Detector": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/14/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::GuardDuty::Detector_20260714T083802Z_20260714T083802Z_1.json.gz",
+    "last_modified": "2026-07-14T13:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__GuardDuty__Detector.json.gz"
+  },
+  "886031930818/AWS::IAM::Policy": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::IAM::Policy_20260709T191358Z_20260709T192852Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__IAM__Policy.json.gz"
+  },
+  "886031930818/AWS::IAM::Role": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::IAM::Role_20260709T200445Z_20260709T200700Z_1.json.gz",
+    "last_modified": "2026-07-10T01:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__IAM__Role.json.gz"
+  },
+  "886031930818/AWS::InspectorV2::Activation": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::InspectorV2::Activation_20260525T065913Z_20260525T065913Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__InspectorV2__Activation.json.gz"
+  },
+  "886031930818/AWS::IoT::DomainConfiguration": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::IoT::DomainConfiguration_20260525T065903Z_20260525T065903Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__IoT__DomainConfiguration.json.gz"
+  },
+  "886031930818/AWS::KMS::Alias": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/7/9/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::KMS::Alias_20260709T191345Z_20260709T192716Z_1.json.gz",
+    "last_modified": "2026-07-09T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__KMS__Alias.json.gz"
+  },
+  "886031930818/AWS::KMS::Key": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/8/10/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::KMS::Key_20260810T174606Z_20260810T174606Z_1.json.gz",
+    "last_modified": "2026-08-10T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__KMS__Key.json.gz"
+  },
+  "886031930818/AWS::ResourceExplorer2::Index": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/27/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::Index_20260527T182225Z_20260527T182225Z_1.json.gz",
+    "last_modified": "2026-05-27T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__ResourceExplorer2__Index.json.gz"
+  },
+  "886031930818/AWS::ResourceExplorer2::View": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/27/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::View_20260527T182225Z_20260527T182225Z_1.json.gz",
+    "last_modified": "2026-05-27T19:48:53+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__ResourceExplorer2__View.json.gz"
+  },
+  "886031930818/AWS::Route53Resolver::ResolverRule": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRule_20260525T065905Z_20260525T065905Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:55+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Route53Resolver__ResolverRule.json.gz"
+  },
+  "886031930818/AWS::Route53Resolver::ResolverRuleAssociation": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRuleAssociation_20260525T065906Z_20260525T065906Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:56+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Route53Resolver__ResolverRuleAssociation.json.gz"
+  },
+  "886031930818/AWS::S3::AccountPublicAccessBlock": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::S3::AccountPublicAccessBlock_20260525T065904Z_20260525T065904Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:55+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__S3__AccountPublicAccessBlock.json.gz"
+  },
+  "886031930818/AWS::SNS::Topic": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::SNS::Topic_20260525T065901Z_20260525T065901Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__SNS__Topic.json.gz"
+  },
+  "886031930818/AWS::SSM::ResourceDataSync": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::SSM::ResourceDataSync_20260525T065906Z_20260525T065906Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:54+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__SSM__ResourceDataSync.json.gz"
+  },
+  "886031930818/AWS::Scheduler::ScheduleGroup": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::Scheduler::ScheduleGroup_20260525T065902Z_20260525T065902Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:52+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__Scheduler__ScheduleGroup.json.gz"
+  },
+  "886031930818/AWS::SecurityHub::Hub": {
+    "key": "AWSLogs/886031930818/Config/us-east-2/2026/5/25/ConfigHistory/886031930818_Config_us-east-2_ConfigHistory_AWS::SecurityHub::Hub_20260525T065905Z_20260525T065905Z_1.json.gz",
+    "last_modified": "2026-05-25T07:48:55+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\886031930818\\AWS__SecurityHub__Hub.json.gz"
+  },
+  "954475336656/AWS::ACM::Certificate": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/11/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ACM::Certificate_20260811T231315Z_20260811T231315Z_1.json.gz",
+    "last_modified": "2026-08-12T00:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ACM__Certificate.json.gz"
+  },
+  "954475336656/AWS::AppConfig::DeploymentStrategy": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::AppConfig::DeploymentStrategy_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__AppConfig__DeploymentStrategy.json.gz"
+  },
+  "954475336656/AWS::Athena::WorkGroup": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Athena::WorkGroup_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Athena__WorkGroup.json.gz"
+  },
+  "954475336656/AWS::Bedrock::DataSource": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Bedrock::DataSource_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Bedrock__DataSource.json.gz"
+  },
+  "954475336656/AWS::Bedrock::KnowledgeBase": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Bedrock::KnowledgeBase_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Bedrock__KnowledgeBase.json.gz"
+  },
+  "954475336656/AWS::Cassandra::Keyspace": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Cassandra::Keyspace_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Cassandra__Keyspace.json.gz"
+  },
+  "954475336656/AWS::CodeDeploy::DeploymentConfig": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::CodeDeploy::DeploymentConfig_20260804T055347Z_20260804T055347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__CodeDeploy__DeploymentConfig.json.gz"
+  },
+  "954475336656/AWS::Config::ConfigurationRecorder": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Config::ConfigurationRecorder_20260804T053333Z_20260804T053338Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Config__ConfigurationRecorder.json.gz"
+  },
+  "954475336656/AWS::DynamoDB::Table": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::DynamoDB::Table_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__DynamoDB__Table.json.gz"
+  },
+  "954475336656/AWS::EC2::ClientVpnEndpoint": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::ClientVpnEndpoint_20260804T055350Z_20260804T055350Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__ClientVpnEndpoint.json.gz"
+  },
+  "954475336656/AWS::EC2::ClientVpnTargetNetworkAssociation": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::ClientVpnTargetNetworkAssociation_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:43+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__ClientVpnTargetNetworkAssociation.json.gz"
+  },
+  "954475336656/AWS::EC2::DHCPOptions": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::DHCPOptions_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__DHCPOptions.json.gz"
+  },
+  "954475336656/AWS::EC2::EIP": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::EIP_20260804T053346Z_20260804T053346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__EIP.json.gz"
+  },
+  "954475336656/AWS::EC2::EIPAssociation": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::EIPAssociation_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__EIPAssociation.json.gz"
+  },
+  "954475336656/AWS::EC2::InternetGateway": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::InternetGateway_20260804T053347Z_20260804T053347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__InternetGateway.json.gz"
+  },
+  "954475336656/AWS::EC2::NatGateway": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::NatGateway_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__NatGateway.json.gz"
+  },
+  "954475336656/AWS::EC2::NetworkAcl": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkAcl_20260804T053347Z_20260804T053347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:43+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__NetworkAcl.json.gz"
+  },
+  "954475336656/AWS::EC2::NetworkInterface": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::NetworkInterface_20260814T005609Z_20260814T032530Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__NetworkInterface.json.gz"
+  },
+  "954475336656/AWS::EC2::RouteTable": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::RouteTable_20260804T053346Z_20260804T053346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__RouteTable.json.gz"
+  },
+  "954475336656/AWS::EC2::SecurityGroup": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::SecurityGroup_20260814T005610Z_20260814T032530Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__SecurityGroup.json.gz"
+  },
+  "954475336656/AWS::EC2::SnapshotBlockPublicAccess": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::SnapshotBlockPublicAccess_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__SnapshotBlockPublicAccess.json.gz"
+  },
+  "954475336656/AWS::EC2::Subnet": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::Subnet_20260814T005610Z_20260814T032530Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__Subnet.json.gz"
+  },
+  "954475336656/AWS::EC2::SubnetNetworkAclAssociation": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetNetworkAclAssociation_20260804T055351Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__SubnetNetworkAclAssociation.json.gz"
+  },
+  "954475336656/AWS::EC2::SubnetRouteTableAssociation": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::SubnetRouteTableAssociation_20260804T055350Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__SubnetRouteTableAssociation.json.gz"
+  },
+  "954475336656/AWS::EC2::TransitGateway": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGateway_20260804T055346Z_20260804T055346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__TransitGateway.json.gz"
+  },
+  "954475336656/AWS::EC2::TransitGatewayAttachment": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/5/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGatewayAttachment_20260805T031238Z_20260805T031238Z_1.json.gz",
+    "last_modified": "2026-08-05T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__TransitGatewayAttachment.json.gz"
+  },
+  "954475336656/AWS::EC2::TransitGatewayRouteTable": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::TransitGatewayRouteTable_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__TransitGatewayRouteTable.json.gz"
+  },
+  "954475336656/AWS::EC2::VPC": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::VPC_20260814T005610Z_20260814T032530Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__VPC.json.gz"
+  },
+  "954475336656/AWS::EC2::VPCBlockPublicAccessOptions": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::VPCBlockPublicAccessOptions_20260804T055350Z_20260804T055350Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__VPCBlockPublicAccessOptions.json.gz"
+  },
+  "954475336656/AWS::EC2::VPCGatewayAttachment": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::EC2::VPCGatewayAttachment_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:43+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__EC2__VPCGatewayAttachment.json.gz"
+  },
+  "954475336656/AWS::ECR::Repository": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ECR::Repository_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ECR__Repository.json.gz"
+  },
+  "954475336656/AWS::ECS::CapacityProvider": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ECS::CapacityProvider_20260804T055347Z_20260804T055347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ECS__CapacityProvider.json.gz"
+  },
+  "954475336656/AWS::ECS::Cluster": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ECS::Cluster_20260804T055346Z_20260804T055346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ECS__Cluster.json.gz"
+  },
+  "954475336656/AWS::ECS::Service": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ECS::Service_20260814T005607Z_20260814T031636Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ECS__Service.json.gz"
+  },
+  "954475336656/AWS::ECS::TaskDefinition": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ECS::TaskDefinition_20260814T005606Z_20260814T031528Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ECS__TaskDefinition.json.gz"
+  },
+  "954475336656/AWS::ElasticLoadBalancingV2::Listener": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/11/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::Listener_20260811T231307Z_20260811T231307Z_1.json.gz",
+    "last_modified": "2026-08-12T00:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ElasticLoadBalancingV2__Listener.json.gz"
+  },
+  "954475336656/AWS::ElasticLoadBalancingV2::LoadBalancer": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::LoadBalancer_20260804T053346Z_20260804T053346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ElasticLoadBalancingV2__LoadBalancer.json.gz"
+  },
+  "954475336656/AWS::ElasticLoadBalancingV2::TargetGroup": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ElasticLoadBalancingV2::TargetGroup_20260814T005607Z_20260814T031738Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ElasticLoadBalancingV2__TargetGroup.json.gz"
+  },
+  "954475336656/AWS::Events::EventBus": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Events::EventBus_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Events__EventBus.json.gz"
+  },
+  "954475336656/AWS::Events::Rule": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/11/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Events::Rule_20260811T231307Z_20260811T231307Z_1.json.gz",
+    "last_modified": "2026-08-12T00:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Events__Rule.json.gz"
+  },
+  "954475336656/AWS::GuardDuty::Detector": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::GuardDuty::Detector_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__GuardDuty__Detector.json.gz"
+  },
+  "954475336656/AWS::IAM::Policy": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::IAM::Policy_20260804T053346Z_20260804T053346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__IAM__Policy.json.gz"
+  },
+  "954475336656/AWS::IAM::Role": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::IAM::Role_20260814T012903Z_20260814T012903Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__IAM__Role.json.gz"
+  },
+  "954475336656/AWS::IoT::DomainConfiguration": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::IoT::DomainConfiguration_20260804T055348Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__IoT__DomainConfiguration.json.gz"
+  },
+  "954475336656/AWS::KMS::Alias": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::KMS::Alias_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__KMS__Alias.json.gz"
+  },
+  "954475336656/AWS::KMS::Key": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::KMS::Key_20260804T055347Z_20260804T055347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:41+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__KMS__Key.json.gz"
+  },
+  "954475336656/AWS::Lambda::Function": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/13/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Lambda::Function_20260813T185648Z_20260813T185648Z_1.json.gz",
+    "last_modified": "2026-08-14T00:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Lambda__Function.json.gz"
+  },
+  "954475336656/AWS::RAM::ResourceShare": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::RAM::ResourceShare_20260804T055347Z_20260804T055347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__RAM__ResourceShare.json.gz"
+  },
+  "954475336656/AWS::RDS::DBInstance": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::RDS::DBInstance_20260814T025646Z_20260814T025646Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__RDS__DBInstance.json.gz"
+  },
+  "954475336656/AWS::RDS::DBSnapshot": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::RDS::DBSnapshot_20260814T025646Z_20260814T025647Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__RDS__DBSnapshot.json.gz"
+  },
+  "954475336656/AWS::RDS::DBSubnetGroup": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::RDS::DBSubnetGroup_20260804T053346Z_20260804T053346Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__RDS__DBSubnetGroup.json.gz"
+  },
+  "954475336656/AWS::RDS::OptionGroup": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::RDS::OptionGroup_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__RDS__OptionGroup.json.gz"
+  },
+  "954475336656/AWS::ResourceExplorer2::Index": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::Index_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:40+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ResourceExplorer2__Index.json.gz"
+  },
+  "954475336656/AWS::ResourceExplorer2::View": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::ResourceExplorer2::View_20260804T055349Z_20260804T055349Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:39+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__ResourceExplorer2__View.json.gz"
+  },
+  "954475336656/AWS::Route53Resolver::ResolverRule": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRule_20260804T055351Z_20260804T055351Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Route53Resolver__ResolverRule.json.gz"
+  },
+  "954475336656/AWS::Route53Resolver::ResolverRuleAssociation": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Route53Resolver::ResolverRuleAssociation_20260804T055352Z_20260804T055352Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:43+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Route53Resolver__ResolverRuleAssociation.json.gz"
+  },
+  "954475336656/AWS::S3::Bucket": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::S3::Bucket_20260804T053346Z_20260804T053347Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__S3__Bucket.json.gz"
+  },
+  "954475336656/AWS::S3Vectors::VectorBucket": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::S3Vectors::VectorBucket_20260804T055350Z_20260804T055350Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:42+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__S3Vectors__VectorBucket.json.gz"
+  },
+  "954475336656/AWS::SNS::Topic": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/11/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::SNS::Topic_20260811T231307Z_20260811T231307Z_1.json.gz",
+    "last_modified": "2026-08-12T00:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__SNS__Topic.json.gz"
+  },
+  "954475336656/AWS::Scheduler::ScheduleGroup": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/4/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::Scheduler::ScheduleGroup_20260804T055348Z_20260804T055348Z_1.json.gz",
+    "last_modified": "2026-08-04T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__Scheduler__ScheduleGroup.json.gz"
+  },
+  "954475336656/AWS::SecretsManager::Secret": {
+    "key": "AWSLogs/954475336656/Config/us-east-2/2026/8/14/ConfigHistory/954475336656_Config_us-east-2_ConfigHistory_AWS::SecretsManager::Secret_20260814T012822Z_20260814T012822Z_1.json.gz",
+    "last_modified": "2026-08-14T06:37:38+00:00",
+    "local_path": "C:\\Users\\zachs\\IdeaProjects\\Claude\\AWS Config Vizualization\\Main (Code)\\cache\\954475336656\\AWS__SecretsManager__Secret.json.gz"
+  }
+}

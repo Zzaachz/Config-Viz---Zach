@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(../.venv/Scripts/python.exe -m pip list)",
+      "Bash(python -m pip list)",
+      "Bash(command -v node)",
+      "Bash(python -c ' *)",
+      "Bash(node --check _paneljs_check.js)",
+      "Bash(rm -f _paneljs_check.js)",
+      "Bash(python _check.py)",
+      "Bash(.venv/Scripts/python.exe --version)",
+      "Bash(.venv/Scripts/python.exe -m pip list)",
+      "Bash(.venv/Scripts/python.exe -m pip install -r requirements.txt)",
+      "Bash(../.venv/Scripts/python.exe cli.py viz)",
+      "Bash(start \"\" \"output/aws-config-all.html\")"
+    ]
+  }
+}

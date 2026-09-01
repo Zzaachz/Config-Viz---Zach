@@ -1,0 +1,65 @@
+[
+  {
+    "srcId": "tgw-attach-08bbb9bd6ca1db3aa",
+    "dstId": "tgw-attach-0f244a0ec268828b1",
+    "srcAccount": "124074140119",
+    "dstAccount": "162521700530",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  },
+  {
+    "srcId": "tgw-attach-08bbb9bd6ca1db3aa",
+    "dstId": "tgw-attach-0886b151437a0b29d",
+    "srcAccount": "124074140119",
+    "dstAccount": "387075078863",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  },
+  {
+    "srcId": "tgw-attach-08bbb9bd6ca1db3aa",
+    "dstId": "tgw-attach-0bd2d5d967a3d33d0",
+    "srcAccount": "124074140119",
+    "dstAccount": "886031930818",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  },
+  {
+    "srcId": "tgw-attach-0f244a0ec268828b1",
+    "dstId": "tgw-attach-0886b151437a0b29d",
+    "srcAccount": "162521700530",
+    "dstAccount": "387075078863",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  },
+  {
+    "srcId": "tgw-attach-0f244a0ec268828b1",
+    "dstId": "tgw-attach-0bd2d5d967a3d33d0",
+    "srcAccount": "162521700530",
+    "dstAccount": "886031930818",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  },
+  {
+    "srcId": "tgw-attach-0886b151437a0b29d",
+    "dstId": "tgw-attach-0bd2d5d967a3d33d0",
+    "srcAccount": "387075078863",
+    "dstAccount": "886031930818",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  },
+  {
+    "srcId": "tgw-attach-0886b151437a0b29d",
+    "dstId": "tgw-attach-0886b151437a0b29d",
+    "srcAccount": "387075078863",
+    "dstAccount": "954475336656",
+    "edgeClass": "cross_account",
+    "stitchReason": "tgw_attachment",
+    "relationshipName": "shares TransitGateway tgw-0154d5cab189cb1e4"
+  }
+]

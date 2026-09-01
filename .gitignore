@@ -1,0 +1,14 @@
+# Python virtual environment (large; reconstruct from requirements.txt)
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
